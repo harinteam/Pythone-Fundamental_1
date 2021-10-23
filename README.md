@@ -1,1 +1,2 @@
-# Pythone-Fundamental_1
+# Python-Fundamental_1
+Start from zero, learning Python Fundamental
